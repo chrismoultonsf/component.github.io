@@ -19,6 +19,6 @@
   "homepage": "https://github.com/component/component.github.io",
   "dependencies": {
     "component": "^1.0.1",
-    "serve": "^1.4.0"
+    "serve": "^14.2.4"
   }
 }
